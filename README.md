@@ -1,6 +1,4 @@
-# This user is (should be) dead and no longer active
-
-## Hi, I’m @**Lebenoa**
+# Hi, I’m @**Lebenoa**
 
 I've experienced with
 - **C#**
