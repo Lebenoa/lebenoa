@@ -1,5 +1,7 @@
 # Hi, I’m @**Lebenoa**
 
+> Should be on [Codeberg](https://codeberg.org/Lebenoa)
+
 I've experienced with
 - **C#**
 - **GO**
